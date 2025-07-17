@@ -43,3 +43,15 @@ Prolonged usage of the haptic feedback may drain the Apple Watch battery.
 Health claims are not verified by the FDA and are not intended for medical purposes.
 
 Support: calmingvibration(at)libero.it
+
+
+Privacy Policy:
+
+- Health data is managed by Apple’s HealthKit and stored securely in the Health app on your iPhone, subject to Apple’s security standards.
+- User preferences are stored locally on your Apple Watch using secure system storage.
+- We do not store your data on external servers or transmit it to third parties.
+
+You have the right to:
+- Revoke HealthKit permissions at any time via the Health app on your iPhone.
+- Delete the CalmingVibration app to remove all locally stored preferences.
+- Contact us at calmingvibration(at)libero.it for questions about your data.
